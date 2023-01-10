@@ -1,5 +1,0 @@
-function Contact() {
-
-}
-
-export {Contact};

@@ -1,5 +1,0 @@
-function About() {
-
-}
-
-export {About};
